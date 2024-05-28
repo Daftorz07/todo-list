@@ -10,3 +10,7 @@ Pasos para ejecutar proyecto:
 
 1. Ejecutar `npm run build`
 2. Tomar la carpeta `dist` y desplegarla
+
+## Link Aplicacion Desplegada
+
+1. https://vite-todo-list-js.netlify.app/#/
